@@ -35,7 +35,7 @@ col1, col2 = st.columns(2)
 
 with col1: 
     if st.button("I Forgive You"):
-        st.hearts()
+        st.ballons()
         st.write("### ❤️ Best. News. Ever. ❤️")
         st.write("I'm counting down the days until I see you.")
 
